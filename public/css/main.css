@@ -2248,3 +2248,15 @@ h4.header-subtitle {font-size: 26px; color: #7bd5ef;}
 
 h6 {line-height: 22px;}
 .right-aside.social-media-contact img {width: 30%;}
+h2.x-large {font-size: 90px;}
+.social-media-list li {display: inline-block;}
+.social-media-list img {height: 60px; width: auto;}
+ul.social-media-list li:before {
+    content: none !important; 
+    font-family: 'bulletsregular';
+    font-size: 14px;
+    left: 4px;
+    top: 5px;
+    position: absolute;
+}
+.wrapper.expanded {max-width: 1460px;}
