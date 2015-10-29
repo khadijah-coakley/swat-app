@@ -2260,3 +2260,4 @@ ul.social-media-list li:before {
     position: absolute;
 }
 .wrapper.expanded {max-width: 1460px;}
+legend {padding: 0 10px;}
