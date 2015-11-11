@@ -2261,3 +2261,5 @@ ul.social-media-list li:before {
 }
 .wrapper.expanded {max-width: 1460px;}
 legend {padding: 0 10px;}
+
+.feature-heading.higher {top: 20%;}
